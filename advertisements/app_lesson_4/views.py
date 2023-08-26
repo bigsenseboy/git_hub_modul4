@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def lesson_4(request):
-    return HttpResponse ('домашка по 4 занятию')
+    return HttpResponse('Домашка по 4 занятию')
